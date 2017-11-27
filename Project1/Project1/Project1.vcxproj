@@ -111,6 +111,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="demo1.1.cpp" />
+    <ClCompile Include="demo1.2.cpp" />
+    <ClCompile Include="demo2_1.cpp" />
+    <ClCompile Include="demo2_2.cpp" />
+    <ClCompile Include="demo2_3.cpp" />
     <ClCompile Include="hello.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
